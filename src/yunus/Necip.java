@@ -13,6 +13,7 @@ public class Necip {
 		System.out.println("ogreniyorum");
 		System.out.println("FFFFFFFFFFFF");
 		System.out.println("yeni");
+		System.out.println("=====================================");
 
 
 
