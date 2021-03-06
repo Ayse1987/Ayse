@@ -7,7 +7,8 @@ public class Necip {
 		System.out.println("Aferin");
 		System.out.println("Aferin");
 		char g='s';
-			
+		int m=12;
+
 
 	}
 
