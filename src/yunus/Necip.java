@@ -6,6 +6,7 @@ public class Necip {
 		System.out.println("Bitanem");
 		System.out.println("Aferin");
 		System.out.println("Aferin");
+		char g='s';
 			
 
 	}
