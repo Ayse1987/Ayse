@@ -11,6 +11,7 @@ public class Necip {
 		short sh=125;
 		byte k=123;
 		System.out.println("ogreniyorum");
+		System.out.println("FFFFFFFFFFFF");
 
 
 
