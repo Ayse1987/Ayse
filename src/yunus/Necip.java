@@ -12,6 +12,7 @@ public class Necip {
 		byte k=123;
 		System.out.println("ogreniyorum");
 		System.out.println("FFFFFFFFFFFF");
+		System.out.println("yeni");
 
 
 
