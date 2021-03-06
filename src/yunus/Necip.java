@@ -10,6 +10,7 @@ public class Necip {
 		int m=12;
 		short sh=125;
 		byte k=123;
+		System.out.println("ogreniyorum");
 
 
 
