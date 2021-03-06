@@ -8,6 +8,7 @@ public class Necip {
 		System.out.println("Aferin");
 		char g='s';
 		int m=12;
+		byte k=123;
 
 
 	}
