@@ -9,6 +9,8 @@ public class Necip {
 		char g='s';
 		int m=12;
 		short sh=125;
+		byte k=123;
+
 
 
 	}
